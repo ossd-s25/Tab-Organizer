@@ -3,7 +3,7 @@
     "name": "Tab Organizer",
     "version": "1.0",
     "description": "Organize your tabs by domain and save sessions.",
-    "permissions": ["tabs", "storage"],
+    "permissions": ["tabs", "storage", "alarms"],
     "background": {
       "service_worker": "background.js"
     },
