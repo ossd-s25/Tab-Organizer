@@ -33,7 +33,7 @@ This Code of Conduct applies within all project spaces, including the GitHub rep
 
 ---
 
-This document was adapted from the Google Open Source Code of Conduct and the IndieWeb Code of Conduct.
+This document was adapted from the [Google Open Source Code of Conduct](https://opensource.google/conduct) and the [IndieWeb Code of Conduct](https://indieweb.org/code-of-conduct).
 
 By participating in this project, you agree to uphold these guidelines and contribute to a welcoming, respectful, and inclusive community.
 
