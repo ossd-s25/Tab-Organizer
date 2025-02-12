@@ -32,7 +32,8 @@ Thank you for your interest in contributing to Tab Organizer 🚀 We welcome all
 ## 🙌 Contributors
 Below are the amazing people who have contributed to Tab Organizer
 
-1. [Shay Butler - Creator & Maintainger]("https://github.com/hawk-2414")
+1. [Shay Butler](https://github.com/hawk-2414) (Creator & Maintainer)
+
 
 If you've contributed, feel free to add your name to the list in your PR! 🎉
 
